@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color:black;
+}
+
+#instructions {
+    margin-top: 50px;
+}
+
+#piano {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 55px;
+    height: 150px;
+    font-size: 16px;
+    margin: 0px;
+}
+
+.white {
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    border: 1px solid #333;
+    width: 40px;
+    height: 100px;
+    margin-left: -20px;
+}
+li{
+    list-style:none;
+}
